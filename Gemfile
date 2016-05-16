@@ -3,3 +3,8 @@
 source "https://rubygems.org"
 
 # gem "rails"
+gem "sqlite3"
+
+ruby "2.3.1"
+gem "slack-notifier"
+
